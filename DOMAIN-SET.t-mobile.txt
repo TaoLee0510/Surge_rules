@@ -1,0 +1,3 @@
+.3gppnetwork.org
+crl.t-mobile.com
+.t-mobile.com

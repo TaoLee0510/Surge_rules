@@ -1,0 +1,7 @@
+.openai.com
+.ai.com
+.oaistatic.com
+.oaiusercontent.com
+.openaiapi-site.azureedge.net
+.sentry.io
+.auth0.com

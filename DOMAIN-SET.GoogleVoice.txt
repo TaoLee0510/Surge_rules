@@ -1,0 +1,2 @@
+.telephony.goog
+.voice.google.com
