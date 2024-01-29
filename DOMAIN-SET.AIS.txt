@@ -1,3 +1,3 @@
 .ais.co.th
 .ais.th
-railway.co.th
+.railway.co.th
