@@ -5,3 +5,4 @@
 .openaiapi-site.azureedge.net
 .sentry.io
 .auth0.com
+.bing.com
