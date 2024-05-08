@@ -26,3 +26,4 @@
 .rent.com
 .nces.ed.gov
 .hctsportals.com
+.healthcaresource.com
