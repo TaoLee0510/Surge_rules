@@ -25,3 +25,4 @@
 .zoom.us
 .rent.com
 .nces.ed.gov
+.hctsportals.com
