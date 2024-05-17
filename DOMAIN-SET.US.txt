@@ -28,3 +28,4 @@
 .hctsportals.com
 .healthcaresource.com
 .tktn.be
+.flsenate.gov
