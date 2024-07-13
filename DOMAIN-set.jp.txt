@@ -1,3 +1,4 @@
 .yodobashi.com
 .andwander.com
 .biccamera.com
+.jafnavi.jp
