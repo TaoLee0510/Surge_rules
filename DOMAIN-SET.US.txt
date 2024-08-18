@@ -33,4 +33,3 @@
 .annas-archive.gs
 .frontier.com
 .ugreen.com
-.lulian.cn
