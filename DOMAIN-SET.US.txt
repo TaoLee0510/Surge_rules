@@ -36,3 +36,4 @@
 .biorxiv.org
 .pearltampa.com
 .sbstck.com
+.substack.com
