@@ -37,3 +37,4 @@
 .pearltampa.com
 .sbstck.com
 .substack.com
+.verizon.com
