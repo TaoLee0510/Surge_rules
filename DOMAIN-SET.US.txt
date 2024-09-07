@@ -38,3 +38,4 @@
 .sbstck.com
 .substack.com
 .verizon.com
+.getclicky.com
