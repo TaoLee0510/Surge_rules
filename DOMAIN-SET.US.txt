@@ -39,3 +39,4 @@
 .substack.com
 .verizon.com
 .getclicky.com
+.bootstrapcdn.com
