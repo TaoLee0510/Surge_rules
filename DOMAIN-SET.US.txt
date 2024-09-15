@@ -40,3 +40,4 @@
 .verizon.com
 .getclicky.com
 .bootstrapcdn.com
+.universalbackground.com
