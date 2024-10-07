@@ -41,3 +41,4 @@
 .getclicky.com
 .bootstrapcdn.com
 .universalbackground.com
+.theparkatorvieto.com
