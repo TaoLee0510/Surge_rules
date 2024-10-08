@@ -42,4 +42,4 @@
 .bootstrapcdn.com
 .universalbackground.com
 .theparkatorvieto.com
-.workforceportal.equifax.com
+.equifax.com
