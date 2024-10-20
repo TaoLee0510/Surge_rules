@@ -47,3 +47,4 @@
 .state.gov
 .inflightpanasonic.aero
 .fmjfee.com
+.jal.co.jp
