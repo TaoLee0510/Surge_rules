@@ -45,3 +45,4 @@
 .equifax.com
 .qingyunti.pro
 .state.gov
+.inflightpanasonic.aero
