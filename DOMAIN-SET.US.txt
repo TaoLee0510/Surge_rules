@@ -48,3 +48,4 @@
 .inflightpanasonic.aero
 .fmjfee.com
 .jal.co.jp
+.myunidays.com
