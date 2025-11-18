@@ -1,0 +1,10 @@
+.facetime.apple.com
+.facetime-apple-com.we.apple-dns.net
+.push.apple.com
+.api.push.apple.com
+.courier.push.apple.com
+.configuration.apple.com
+.appleid.apple.com
+.groupfacetime.apple.com
+.xp.apple.com
+.gs.apple.com
