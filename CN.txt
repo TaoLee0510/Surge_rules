@@ -1,5 +1,7 @@
 .alipay.com
 .alipayobjects.com
+.gw.alipayobjects.com
+.mgw.alipay.com
 
 
 
