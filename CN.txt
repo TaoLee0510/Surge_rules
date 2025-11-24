@@ -2,6 +2,6 @@
 .alipayobjects.com
 .gw.alipayobjects.com
 .mgw.alipay.com
-
+.mdn.alipayobjects.com
 
 
